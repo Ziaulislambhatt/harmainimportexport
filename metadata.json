@@ -1,0 +1,6 @@
+{
+  "name": "Harmain Import & Export",
+  "description": "Premium global agro-commodity and spice exporter based in Bengaluru, India, connecting farm-fresh spices and agricultural commodities with worldwide markets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
